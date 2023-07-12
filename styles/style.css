@@ -37,7 +37,7 @@
 
 .primary-btn {
     background: #E55473;
-    padding: 20px 43px;
+    padding: 15px 40px;
     gap: 10px;
     border-radius: 8px;
     color: #FFF;
@@ -62,13 +62,14 @@
     padding: 80px 20px 0px 60px;
     margin: 50px 30px 10px 30px;
 }
+
 .image-3 {
     width: 464px;
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    padding: 80px 20px 0px 60px ;
-    margin: 50px 30px 10px 30px ;
+    padding: 80px 20px 0px 60px;
+    margin: 50px 30px 10px 30px;
 }
 
 .image-4 {
@@ -77,11 +78,11 @@
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-    padding: 80px 20px 0px 60px ;
-    margin: 50px 30px 10px 30px ;
+    padding: 80px 20px 0px 60px;
+    margin: 50px 30px 10px 30px;
 }
 
-.img-gallery-title{
+.img-gallery-title {
     color: #272727;
     font-size: 24px;
     font-weight: 700;
@@ -93,24 +94,64 @@
 .feature-1 {
     color: #272727;
     font-size: 40px;
-    
+
 }
 
-#what {
+.Brief {
 
     color: rgba(39, 39, 39, 0.60);
-font-size: 18px;
-font-weight: 400;
+    font-size: 18px;
+    font-weight: 400;
 
 
 }
-.fline1{
+
+.fline1 {
     text-align: center;
     margin-bottom: 100px;
-    
+
 
 }
-.photo{
-        display: flex;
-        justify-content: center;
+
+.photo {
+    display: flex;
+    justify-content: center;
+}
+
+.headers1 {
+
+    width: 1922px;
+    height: 620px;
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-bottom: 100px;
+}
+
+.wow {
+    padding: 120px 150px 100px 300px;
+
+}
+
+.hot-deal {
+
+    color: #272727;
+    font-size: 35px;
+}
+
+.span {
+    color: #E55473;
+
+}
+
+.btn-2{
+
+    margin-left: 120px;
+}
+
+.red-flower {
+    padding: 70px 280px 70px 20px;
+    width: 220px;
+    height: 300px;
+
 }
