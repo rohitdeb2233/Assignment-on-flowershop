@@ -27,6 +27,13 @@
     line-height: 30px;
 }
 
+.brief {
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.60);
+
+
+}
+
 .title-1 {
     color: #272727;
     font-family: Lato;
@@ -97,14 +104,6 @@
 
 }
 
-.Brief {
-
-    color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
-    font-weight: 400;
-
-
-}
 
 .fline1 {
     text-align: center;
@@ -137,8 +136,8 @@
 
     color: #272727;
 
-font-size: 45px;
-font-weight: 800;
+    font-size: 45px;
+    font-weight: 800;
 
 }
 
@@ -147,7 +146,7 @@ font-weight: 800;
 
 }
 
-.btn-2{
+.btn-2 {
 
     margin-left: 120px;
 }
@@ -158,19 +157,66 @@ font-weight: 800;
     height: 300px;
 
 }
-.hhh{
+
+.hhh {
 
     text-align: center;
     margin: 7px 500px 10px 500px;
 }
-.imgggg{
+
+.imgggg {
 
     margin: 0px 80px 0px 220px;
 
 }
 
-.IE{
+.IE {
     margin: 0px 10px;
     height: 296px;
     width: 242px;
+}
+
+.background {
+    background-image: url(../bg-img/Rectangle9.png);
+    margin: 100px 80px 100px 230px;
+    height: 350px;
+    max-width: 1040px;
+
+}
+
+.input {
+
+    text-align: center;
+    padding: 80px;
+}
+
+.mail {
+    height: 40px;
+    width: 380px;
+
+}
+
+.foot {
+
+    background-color: #272727;
+    ;
+    text-align: center;
+    padding: 100px 300px 120px 300px;
+
+
+}
+
+.para {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.copyright {
+
+    color: rgba(253, 246, 246, 0.4);
+
+
 }
