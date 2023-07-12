@@ -1,0 +1,55 @@
+.First-section {
+
+    background: rgba(229, 84, 115, 0.10);
+    margin-bottom: 160px;
+    display: flex;
+
+}
+
+
+.first {
+
+    margin: 80px 200px 15px 150px;
+}
+
+
+
+.description {
+    display: flex;
+    width: 634px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.title-1 {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+
+.primary-btn {
+    background: #E55473;
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+
+}
+
+.image-1 {
+
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+}
